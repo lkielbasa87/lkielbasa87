@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkielbasa87
-- 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in HTML, CSS and JS and React Native.
+- 🌱 I’m currently learning JavaScript and React Native.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me: lkielbasa87@gmail.com
 
