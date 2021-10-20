@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lkielbasa87
-- 👀 I’m interested in HTML, CSS, JS and ReactJS.
-- 🌱 I’m currently learning widely understood front-end development.
-- 💞️ I’m just coding simple web apps and sites to gain experience.
+- 👋 Hi, my name is Łukasz.
+- 👀 I am interested in HTML, CSS, JS.
+- 🌱 I am currently learning widely understood front-end development.
+- 💞️ I code simple web apps and websites to gain experience.
 - 📫 How to reach me: lkielbasa87@gmail.com
 
 <!---
